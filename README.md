@@ -1,16 +1,16 @@
 # Bonjour, je suis Koffi Sadrac
 
-# Étudiant finissant en AEC Sécurité Informatique et Réseaux
+### Étudiant finissant en AEC Sécurité Informatique et Réseaux
 
-Je suis étudiant en **Sécurité Informatique et Réseaux à Montréal**, avec un intérêt particulier pour la cybersécurité, l'administration systèmes, les réseaux informatiques et la virtualisation.
+Je suis étudiant finissant en **Sécurité Informatique et Réseaux à Montréal**, avec un intérêt particulier pour la cybersécurité, l'administration systèmes, les réseaux informatiques et la virtualisation.
 
 Mon objectif est de développer mes compétences pratiques et de documenter ici mes projets et laboratoires techniques.
 
 ---
 
-# Compétences techniques
+## Compétences techniques
 
-# Réseaux
+### Réseaux
 - Cisco
 - VLAN & Trunking
 - Routage
@@ -19,27 +19,27 @@ Mon objectif est de développer mes compétences pratiques et de documenter ici 
 - ACL
 - TCP/IP
 
-# Cybersécurité
+### Cybersécurité
 - OPNsense / pfSense
 - Nmap
 - UFW / iptables
 - Pare-feu Windows
 - Sécurité des accès réseau
 
-# Systèmes
+### Systèmes
 - Windows 11
 - Windows Server 2022 / 2025
 - Active Directory (AD DS)
 - Linux / Ubuntu
 - Samba Active Directory
 
-# Virtualisation
+### Virtualisation
 - VMware Workstation
 - VMware ESXi
 - KVM
 - Hyper-V
 
-# Téléphonie IP
+### Téléphonie IP
 - Cisco CME (SCCP, ephone, dial-peers)
 - Asterisk (PJSIP), files d'attente, messagerie vocale
 - SIP, RTP, codecs G.711
@@ -48,43 +48,52 @@ Mon objectif est de développer mes compétences pratiques et de documenter ici 
 - Chiffrement : SIP over TLS, SRTP, VPN IPsec
 - Analyse d'appels avec Wireshark
 
-# Autres technologies
-- Asterisk VoIP
+### Autres technologies
 - Cisco Packet Tracer
 - GNS3
 
 ---
 
-# Projets et laboratoires
+## Projets et laboratoires
 
-# OPNsense Firewall & VLAN Lab
+### VoIP multisite sécurisée — Cisco CME, Asterisk et OPNsense
+Téléphonie IP pour une entreprise de deux sites : Cisco CME dans Packet Tracer,
+puis Asterisk derrière un pare-feu OPNsense. VLAN voix, QoS (DSCP 46),
+VPN IPsec, SIP over TLS et SRTP, fail2ban, analyse dans Wireshark
+(0 % de perte, 43 tests).
+[Voir le projet](https://github.com/koffisadrac/voip-multisite-securisee)
+
+### NovaTech — Infrastructure d'entreprise sécurisée
+Infrastructure segmentée pour une PME : OPNsense, Samba AD, BIND9, Kea DHCP,
+modèle AGDLP et VPN WireGuard.
+[Voir le projet](https://github.com/koffisadrac/novatech-infrastructure)
+
+### OPNsense Firewall & VLAN Lab
 Configuration d'un pare-feu OPNsense avec segmentation VLAN,
 règles de filtrage, NAT et tests de sécurité.
+[Voir le projet](https://github.com/koffisadrac/opnsense-firewall-vlan-lab)
 
-# Windows Server & Active Directory Lab
+### Windows Server & Active Directory Lab
 Déploiement de Windows Server avec AD DS, DNS, DHCP,
 utilisateurs, groupes et stratégies de sécurité.
 
-# Samba Active Directory Lab
+### Samba Active Directory Lab
 Mise en place d'un contrôleur de domaine Samba AD sous Linux.
 
-# Network Segmentation Lab
+### Network Segmentation Lab
 Conception d'une infrastructure réseau avec VLAN,
 routage inter-VLAN et ACL.
 
-# Network Security Lab
+### Network Security Lab
 Analyse et tests de sécurité réseau avec Nmap
 et différents outils de diagnostic.
 
-# Asterisk VoIP Lab
-Configuration d'un environnement de téléphonie IP avec Asterisk.
-
-# Virtualization Lab
+### Virtualization Lab
 Laboratoires de virtualisation avec VMware, ESXi et KVM.
 
 ---
 
-# 4ᵉ session — Actuellement en apprentissage
+## 4ᵉ session — Actuellement en apprentissage
 
 - Infrastructures virtuelles
 - Gestion des risques et incidents
@@ -94,7 +103,7 @@ Laboratoires de virtualisation avec VMware, ESXi et KVM.
 
 ---
 
-# Objectif professionnel
+## Objectif professionnel
 
 Développer mon expérience professionnelle dans les domaines de :
 
@@ -102,13 +111,14 @@ Développer mon expérience professionnelle dans les domaines de :
 - Réseaux informatiques
 - Administration systèmes
 - Virtualisation
+- Téléphonie IP
 - Support informatique
 
 Je suis particulièrement intéressé par les opportunités de **stage et les postes juniors en TI**.
 
 ---
 
- Ce portfolio documente progressivement mes :
+Ce portfolio documente progressivement mes :
 
 - projets techniques ;
 - laboratoires de cybersécurité ;
@@ -116,4 +126,4 @@ Je suis particulièrement intéressé par les opportunités de **stage et les po
 - environnements Windows et Linux ;
 - travaux de virtualisation.
 
- De nouveaux projets seront ajoutés au fur et à mesure de ma formation.
+De nouveaux projets seront ajoutés au fur et à mesure de ma formation.
