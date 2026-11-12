@@ -1,6 +1,6 @@
 # Bonjour, je suis Koffi Sadrac
 
-# Étudiant en Sécurité Informatique et Réseaux
+# Étudiant finissant en AEC Sécurité Informatique et Réseaux
 
 Je suis étudiant en **Sécurité Informatique et Réseaux à Montréal**, avec un intérêt particulier pour la cybersécurité, l'administration systèmes, les réseaux informatiques et la virtualisation.
 
