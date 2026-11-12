@@ -39,10 +39,17 @@ Mon objectif est de développer mes compétences pratiques et de documenter ici 
 - KVM
 - Hyper-V
 
+# Téléphonie IP
+- Cisco CME (SCCP, ephone, dial-peers)
+- Asterisk (PJSIP), files d'attente, messagerie vocale
+- SIP, RTP, codecs G.711
+- VLAN voix, PoE, DHCP option 150
+- QoS : DSCP (EF 46, CS3 24), LLQ
+- Chiffrement : SIP over TLS, SRTP, VPN IPsec
+- Analyse d'appels avec Wireshark
+
 # Autres technologies
 - Asterisk VoIP
-- Nginx
-- Syslog
 - Cisco Packet Tracer
 - GNS3
 
