@@ -5,7 +5,7 @@
 Je conçois, sécurise et documente des infrastructures réseau complètes : pare-feu, segmentation,
 Active Directory et téléphonie IP. Chaque projet est validé par un plan de tests et publié avec ses configurations.
 
-🌐 **Portfolio :** [koffisadrac.github.io](https://koffisadrac.github.io) · 🎯 **Disponible pour un stage**
+ **Portfolio :** [koffisadrac.github.io](https://koffisadrac.github.io) ·  **Disponible pour un stage**
 
 ---
 
