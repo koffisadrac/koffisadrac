@@ -1,43 +1,30 @@
-# Bonjour, je suis Koffi Sadrac
+# Bonjour, je suis Koffi Sadrac Kanga
 
-### Étudiant finissant en AEC Sécurité Informatique et Réseaux
+### Étudiant finissant en AEC Sécurité informatique et réseaux — Collège Ellis, Montréal
 
-Je suis étudiant finissant en **Sécurité Informatique et Réseaux à Montréal**, avec un intérêt particulier pour la cybersécurité, l'administration systèmes, les réseaux informatiques et la virtualisation.
+Je conçois, sécurise et documente des infrastructures réseau complètes : pare-feu, segmentation,
+Active Directory et téléphonie IP. Chaque projet est validé par un plan de tests et publié avec ses configurations.
 
-Mon objectif est de développer mes compétences pratiques et de documenter ici mes projets et laboratoires techniques.
+🌐 **Portfolio :** [koffisadrac.github.io](https://koffisadrac.github.io) · 🎯 **Disponible pour un stage**
+
+---
+
+## Projets en vedette
+
+| Projet | Ce que j'ai fait | Résultats |
+|---|---|---|
+| **[VoIP multisite sécurisée](https://github.com/koffisadrac/voip-multisite-securisee)** | Téléphonie IP sur deux sites : Cisco CME, Asterisk derrière OPNsense, QoS, VPN IPsec, TLS et SRTP | 0 % de perte, 43 tests réussis |
+| **[NovaTech — infrastructure sécurisée](https://github.com/koffisadrac/novatech-infrastructure)** | PME de 30 personnes : OPNsense, Samba AD, BIND9, Kea DHCP, modèle AGDLP, WireGuard | 5 VLAN isolés, 14 tests réussis |
+| **[OPNsense Firewall & VLAN Lab](https://github.com/koffisadrac/opnsense-firewall-vlan-lab)** | Volet pare-feu de NovaTech : règles, relais DHCP, NAT, VPN limité | Blocage par défaut entre les zones |
 
 ---
 
 ## Compétences techniques
 
 ### Réseaux
-- Cisco
-- VLAN & Trunking
-- Routage
-- DHCP & DNS
-- NAT/PAT
-- ACL
-- TCP/IP
-
-### Cybersécurité
-- OPNsense / pfSense
-- Nmap
-- UFW / iptables
-- Pare-feu Windows
-- Sécurité des accès réseau
-
-### Systèmes
-- Windows 11
-- Windows Server 2022 / 2025
-- Active Directory (AD DS)
-- Linux / Ubuntu
-- Samba Active Directory
-
-### Virtualisation
-- VMware Workstation
-- VMware ESXi
-- KVM
-- Hyper-V
+- Cisco IOS, Packet Tracer
+- VLAN, trunk 802.1Q, routage inter-VLAN et statique
+- DHCP, DNS, NAT/PAT, ACL, TCP/IP
 
 ### Téléphonie IP
 - Cisco CME (SCCP, ephone, dial-peers)
@@ -45,85 +32,53 @@ Mon objectif est de développer mes compétences pratiques et de documenter ici 
 - SIP, RTP, codecs G.711
 - VLAN voix, PoE, DHCP option 150
 - QoS : DSCP (EF 46, CS3 24), LLQ
-- Chiffrement : SIP over TLS, SRTP, VPN IPsec
-- Analyse d'appels avec Wireshark
 
-### Autres technologies
-- Cisco Packet Tracer
-- GNS3
+### Cybersécurité
+- OPNsense, pfSense
+- VPN IPsec, WireGuard
+- SIP over TLS, SRTP
+- UFW, iptables, fail2ban
+- Nmap, Wireshark, tcpdump
 
----
+### Systèmes
+- Windows 10/11, Windows Server
+- Active Directory (AD DS), Samba AD, modèle AGDLP
+- Linux / Ubuntu Server, BIND9, Kea DHCP
+- Scripts Bash
 
-## Projets et laboratoires
-
-### VoIP multisite sécurisée — Cisco CME, Asterisk et OPNsense
-Téléphonie IP pour une entreprise de deux sites : Cisco CME dans Packet Tracer,
-puis Asterisk derrière un pare-feu OPNsense. VLAN voix, QoS (DSCP 46),
-VPN IPsec, SIP over TLS et SRTP, fail2ban, analyse dans Wireshark
-(0 % de perte, 43 tests).
-[Voir le projet](https://github.com/koffisadrac/voip-multisite-securisee)
-
-### NovaTech — Infrastructure d'entreprise sécurisée
-Infrastructure segmentée pour une PME : OPNsense, Samba AD, BIND9, Kea DHCP,
-modèle AGDLP et VPN WireGuard.
-[Voir le projet](https://github.com/koffisadrac/novatech-infrastructure)
-
-### OPNsense Firewall & VLAN Lab
-Configuration d'un pare-feu OPNsense avec segmentation VLAN,
-règles de filtrage, NAT et tests de sécurité.
-[Voir le projet](https://github.com/koffisadrac/opnsense-firewall-vlan-lab)
-
-### Windows Server & Active Directory Lab
-Déploiement de Windows Server avec AD DS, DNS, DHCP,
-utilisateurs, groupes et stratégies de sécurité.
-
-### Samba Active Directory Lab
-Mise en place d'un contrôleur de domaine Samba AD sous Linux.
-
-### Network Segmentation Lab
-Conception d'une infrastructure réseau avec VLAN,
-routage inter-VLAN et ACL.
-
-### Network Security Lab
-Analyse et tests de sécurité réseau avec Nmap
-et différents outils de diagnostic.
-
-### Virtualization Lab
-Laboratoires de virtualisation avec VMware, ESXi et KVM.
+### Virtualisation
+- VMware Workstation, VMware ESXi
+- Hyper-V, KVM
 
 ---
 
-## 4ᵉ session — Actuellement en apprentissage
+## Laboratoires de cours
 
-- Infrastructures virtuelles
-- Gestion des risques et incidents
-- Environnement de production II
-- Soutien aux clients
-- Milieu de travail en informatique, recherche et communication
+- **Windows Server & Active Directory** — AD DS, DNS, DHCP, utilisateurs, groupes et stratégies de groupe
+- **Infrastructures virtuelles** — VMware ESXi, Hyper-V et KVM
+- **Analyse de sécurité réseau** — Nmap, Wireshark et outils de diagnostic
+
+---
+
+## Formation
+
+- **AEC Sécurité informatique et réseaux** — Collège Ellis, Montréal *(fin prévue en mai 2027)*
+
+  | Domaine | Cours réussis |
+  |---|---|
+  | Réseaux | Théorie des réseaux · Routage et communication · Fonctions de commutation avancées |
+  | Sécurité | Sécurité informatique avancée · Sécurité des communications · Sécurité des accès au réseau informatique |
+  | Systèmes | Système d'exploitation I et II · Système serveur I et II · Environnement de production I |
+  | Téléphonie et projets | Téléphonie IP · Projet d'intégration I · Projet d'intégration II |
+  | Communication | Logiciels de bureautique · Français en informatique · Anglais en informatique |
+
+  *En cours (4ᵉ session) :* Infrastructures virtuelles · Gestion des risques et incidents · Environnement de production II · Soutien aux clients · Milieu de travail, recherche et communication
+
+- **Licence en criminologie** — Université Félix-Houphouët-Boigny, Côte d'Ivoire
 
 ---
 
 ## Objectif professionnel
 
-Développer mon expérience professionnelle dans les domaines de :
-
-- Cybersécurité
-- Réseaux informatiques
-- Administration systèmes
-- Virtualisation
-- Téléphonie IP
-- Support informatique
-
-Je suis particulièrement intéressé par les opportunités de **stage et les postes juniors en TI**.
-
----
-
-Ce portfolio documente progressivement mes :
-
-- projets techniques ;
-- laboratoires de cybersécurité ;
-- configurations réseau ;
-- environnements Windows et Linux ;
-- travaux de virtualisation.
-
-De nouveaux projets seront ajoutés au fur et à mesure de ma formation.
+Je cherche un **stage** ou un **premier poste** en infrastructure, réseaux, téléphonie IP ou soutien TI,
+où mettre au service d'une équipe ma méthode : construire, tester chaque étape et documenter.
